@@ -1,0 +1,12 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# macOS hidden files
+.DS_Store
+
+# JSON data files (optional: keep private if needed)
+*.json
